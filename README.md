@@ -34,7 +34,7 @@ Content for the presentation of Github to the KS Team
 ##Why?
 ###Use Cases
 * Working with developers
-* Tracking changes to documents
+* [Tracking changes to documents](https://github.com/rhodges/ks-github-talk/commit/d04c37a493ed89d2a1926bf6fdb6d55de9adfa8b)
   * Making notes on changes to documents
 * Requesting help
   * Bug reports
@@ -48,6 +48,6 @@ Content for the presentation of Github to the KS Team
  
 
 #Further Reading
-[Git](https://en.wikipedia.org/wiki/Git_(software))
-[The Cathedral & The Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/)
+* [Git](https://en.wikipedia.org/wiki/Git_(software))
+* [The Cathedral & The Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/)
 
