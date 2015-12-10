@@ -40,7 +40,7 @@ Content for the presentation of Github to the KS Team
 * [Tracking changes to documents](https://github.com/rhodges/ks-github-talk/commit/d04c37a493ed89d2a1926bf6fdb6d55de9adfa8b)
   * Making notes on changes to documents
 * Requesting help
-  * Bug reports
+  * [Bug reports](https://github.com/Ecotrust/COMPASS/issues)
   * Get involved
 * [It's not going away](https://www.google.com/trends/explore#q=%2Fm%2F04g0kcw%2C%20%2Fm%2F07bsws&cmpt=q&tz=Etc%2FGMT%2B7)
 
