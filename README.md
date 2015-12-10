@@ -42,7 +42,7 @@ Content for the presentation of Github to the KS Team
 * Requesting help
   * Bug reports
   * Get involved
-* [It's not going anywhere](https://www.google.com/trends/explore#q=%2Fm%2F04g0kcw%2C%20%2Fm%2F07bsws&cmpt=q&tz=Etc%2FGMT%2B7)
+* [It's not going away](https://www.google.com/trends/explore#q=%2Fm%2F04g0kcw%2C%20%2Fm%2F07bsws&cmpt=q&tz=Etc%2FGMT%2B7)
 
 
 ##How?
