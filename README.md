@@ -54,7 +54,7 @@ Content for the presentation of Github to the KS Team
 * [Fix This readme](https://github.com/rhodges/ks-github-talk/milestones)
  
 
-#Further Reading
+##Further Reading
 * [Git](https://en.wikipedia.org/wiki/Git_(software))
 * [The Cathedral & The Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/)
 
