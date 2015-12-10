@@ -6,7 +6,9 @@ Content for the presentation of Github to the KS Team
 
 ##Who?
 * Developers
-  * Major players like [Mozilla](https://github.com/mozilla)
+  * Major players like 
+    * [Mozilla](https://github.com/mozilla)
+    * [ESRI](https://github.com/Esri)
 * Project Managers
 * People who work with "Living Documents"
 * Teams who frequently update the same data
