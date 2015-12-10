@@ -10,6 +10,7 @@ Content for the presentation of Github to the KS Team
     * [Mozilla](https://github.com/mozilla)
     * [ESRI](https://github.com/Esri)
 * Project Managers
+  * [Madrona](https://github.com/Ecotrust/madrona)
 * People who work with "Living Documents"
 * Teams who frequently update the same data
 
